@@ -1,0 +1,7 @@
+main: us.artit.eskettit.Eskettit
+name: Eskettit
+version: 0.0.0.1a
+author: Artitus
+website: https://artit.us
+commands:
+  eskettit:
